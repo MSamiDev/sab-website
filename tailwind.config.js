@@ -9,7 +9,12 @@ export default {
       "./error.vue",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        anton : ["Anton", "sans-serif"],  
+        montserrat : ["Montserrat", "sans-serif"]
+      }
+    },
   },
   plugins: [],
 }
