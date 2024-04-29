@@ -9,7 +9,7 @@
 			<div class=" w-60 h-80 ">
 				<img
 					class="w-60 h-80 rounded-3xl "
-					src="~/assets/images/products/Grains.jpg"
+					src="~/assets/images/products/Grains.webp"
 					alt=""
 				/>
 				<span
@@ -20,7 +20,7 @@
 			<div class="w-60 h-80 ">
 				<img
 					class="w-60 h-80 rounded-3xl"
-					src="~/assets/images/products/Pulses.jpg"
+					src="~/assets/images/products/Pulses.webp"
 					alt=""
 				/>
 				<span
@@ -31,7 +31,7 @@
 			<div class="w-60 h-80 ">
 				<img
 					class="w-60 h-80 rounded-3xl"
-					src="~/assets/images/products/Spices.jpg"
+					src="~/assets/images/products/Spices.webp"
 					alt=""
 				/>
 				<span
@@ -42,7 +42,7 @@
 			<div class="w-60 h-80 ">
 				<img
 					class="w-60 h-80 rounded-3xl"
-					src="~/assets/images/products/Oil.jpg"
+					src="~/assets/images/products/Oil.webp"
 					alt=""
 				/>
 				<span
@@ -53,7 +53,7 @@
       <div class="w-60 h-80 ">
 				<img
 					class="w-60 h-80 rounded-3xl"
-					src="~/assets/images/products/Fruit_and_Vegetables.jpg"
+					src="~/assets/images/products/Fruit_and_Vegetables.webp"
 					alt=""
 				/>
 				<span
@@ -64,7 +64,7 @@
       <div class="w-60 h-80 ">
 				<img
 					class="w-60 h-80 rounded-3xl"
-					src="~/assets/images/products/Flour.jpg"
+					src="~/assets/images/products/Flour.webp"
 					alt=""
 				/>
 				<span

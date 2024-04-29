@@ -17,7 +17,7 @@
 							>
 								Sahar Al Barkaat
 							</h2>
-							<h1 class="capitalize leading-tight mb-2 text-white text-2xl drop-shadow-2xl font-montserrat font-normal">
+							<h1 class="capitalize leading-tight mb-2 mt-8 text-white text-2xl drop-shadow-2xl font-montserrat font-semibold ">
 								Expand your horizons with us!
 							</h1>
 							<p class="font-normal mb-6 text-white  drop-shadow-2xl font-montserrat text-xl">
@@ -46,7 +46,7 @@
 
 <style>
 .herobackground {
-	background: url("~/assets/images/hero.png");
+	background: url("~/assets/images/hero.webp");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
